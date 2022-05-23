@@ -4,4 +4,4 @@ I have much experience with the cross-platform C++ Qt libraries, but never had t
 
 In the future I would like to try Qt for Python.
 
-I hope my exercises are helpful for others. Anyone might teach themselves these skills from published examples, but perhaps my own getting-started code and README notes will complement other resources.
+I hope my exercises are helpful for others. Anyone might teach themselves these skills from published examples, but perhaps my getting-started code and README notes will complement other resources.
