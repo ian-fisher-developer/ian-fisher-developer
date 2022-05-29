@@ -1,6 +1,6 @@
 My name is Ian Fisher. In May 2022 I started exploring some gaps in my technical skills. All non-trivial coding should have source control, so here I am on GitHub.
 
-I hope my exercises are helpful for others. Anyone might teach themselves these skills from published examples, but perhaps my getting-started code and README notes will complement those resources.
+I hope my exercises are helpful for others. Anyone might teach themselves these skills from published examples, but perhaps my getting-started code and documents will complement those resources.
 
 Qt QML/Quick
 
