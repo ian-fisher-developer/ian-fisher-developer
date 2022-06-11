@@ -9,3 +9,7 @@ I have much experience with Qt, but had never tried Qt QML/Quick. My investigati
 Qt For Python
 
 I have some Python experience, mostly I/O with CouchDB. In the qt-for-python repository, I start learning about the Qt Company's bindings for Python.
+
+JavaScript
+
+I am strong in rich-client desktop applications, but have only occasionally touched JavaScript. I start digging deeper in the javascript repository.
