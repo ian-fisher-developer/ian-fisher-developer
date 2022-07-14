@@ -13,3 +13,7 @@ I have some Python experience, mostly I/O with CouchDB. In the qt-for-python rep
 JavaScript
 
 I am strong in rich-client desktop applications, but have only occasionally touched JavaScript. I start digging deeper in the javascript repository.
+
+Playground
+
+Miscellaneous bits and pieces.
