@@ -14,10 +14,10 @@ These exercises help me learn by doing -- hand-crafting small, tested, and docum
 
   I am strong in rich-client desktop applications, but have only occasionally touched JavaScript. I start digging deeper in the javascript repository.
 
-- Playground
-
-  Miscellaneous bits and pieces.
-
 - VSCode C++ Development Tools
 
   A VSCode C++ development environment for Linux, richly populated with quality-oriented tools.
+
+- Playground
+
+  Miscellaneous bits and pieces.
